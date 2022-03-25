@@ -1,6 +1,6 @@
 {
   "name": "@zyf-lerna-dev/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ss",
   "author": "小小一只帆 <57940926+2789239172@users.noreply.github.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@zyf-lerna-dev/core": "1.0.0"
+    "@zyf-lerna-dev/core": "^1.0.1"
   }
 }
