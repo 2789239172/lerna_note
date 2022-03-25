@@ -21,5 +21,9 @@
   },
   "dependencies": {
     "zyf-hello": "^1.0.3"
+  },
+  "gitHead": "987def1fec5a45c6aae2ee9a05b78d65e2cb1fc4",
+  "publishConfig": {
+    "access": "public"
   }
 }

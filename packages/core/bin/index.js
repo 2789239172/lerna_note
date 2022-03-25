@@ -1,2 +1,2 @@
 #! node
-console.log('zyf')
+console.log('hello zyf')
